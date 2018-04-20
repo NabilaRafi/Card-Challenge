@@ -1,0 +1,11 @@
+.card-component-desktop {
+    max-width: '650px'
+    div{
+        display: inline-block;
+    },
+    h4 {
+        opacity: 100%;
+        color: red;
+        display: inline;
+    }
+}
