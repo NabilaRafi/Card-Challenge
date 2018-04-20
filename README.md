@@ -8,3 +8,4 @@ Further improvements:
 - Accessing the props values through json files
 - Redux implementation to perform actions on the card to storing the ratings and to retrieve json values
 - More bootstrap Styling
+- Unit testing to be included
